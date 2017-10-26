@@ -6,4 +6,4 @@ make some changes to the file
 
 Yet another chANGE
 
-WHAT
+WHAT ANOTHER UNKNOWN PERSON MADE a commit
